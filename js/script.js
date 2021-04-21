@@ -13,5 +13,4 @@ for(let i = 0; i < maxGotas; i++){
 }
 
 //iniciar
-ctx.rotate(45 * Math.PI / 180)
 executar()
